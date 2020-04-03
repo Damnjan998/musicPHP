@@ -1,0 +1,94 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+	<url>
+
+		<loc>http://damnjan.codemastervr.win/index.php</loc>
+
+		<lastmod>2019-04-21</lastmod>
+
+		<changefreq>daily</changefreq>
+
+		<priority>1</priority>
+
+	</url>	
+
+	<url>
+
+		<loc>http://damnjan.codemastervr.win/artists.php</loc>
+
+		<lastmod>2019-04-21</lastmod>
+
+		<changefreq>daily</changefreq>
+
+		<priority>0.8</priority>
+
+	</url>
+
+	<url>
+
+		<loc>http://damnjan.codemastervr.win/specials.php</loc>
+
+		<lastmod>2019-04-21</lastmod>
+
+		<changefreq>daily</changefreq>
+
+		<priority>0.8</priority>
+
+	</url>
+
+	<url>
+
+		<loc>http://damnjan.codemastervr.win/contact.php</loc>
+
+		<lastmod>2019-04-21</lastmod>
+
+		<changefreq>daily</changefreq>
+
+		<priority>0.6</priority>
+
+	</url>
+	<url>
+
+		<loc>http://damnjan.codemastervr.win/about.php</loc>
+
+		<lastmod>2019-04-21</lastmod>
+
+		<changefreq>daily</changefreq>
+
+		<priority>0.5</priority>
+
+	</url>
+	<url>
+
+		<loc>http://damnjan.codemastervr.win/login.php</loc>
+
+		<lastmod>2019-04-21</lastmod>
+
+		<changefreq>daily</changefreq>
+
+		<priority>0.5</priority>
+
+	</url>
+	<url>
+
+		<loc>http://damnjan.codemastervr.win/details.php</loc>
+
+		<lastmod>2019-04-21</lastmod>
+
+		<changefreq>daily</changefreq>
+
+		<priority>0.4</priority>
+
+	</url>
+	<url>
+
+		<loc>http://damnjan.codemastervr.win/admin.php</loc>
+
+		<lastmod>2019-04-21</lastmod>
+
+		<changefreq>daily</changefreq>
+
+		<priority>0.7</priority>
+
+	</url>
+</urlset>
